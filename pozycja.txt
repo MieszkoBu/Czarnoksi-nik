@@ -1,0 +1,82 @@
+Las:
+jesteś w lesie
+las2:
+widzisz las
+jezioro:
+widzisz jezioro
+dom:
+Wchodzisz do domu
+dom2:
+widzisz dom
+brama:
+widzisz bramę miasta
+brama_z:
+widzisz bramę zamku
+brama_r:
+widzisz bramę ruin
+brama_cz:
+widzisz bramę czarnoksięznika
+ruiny:
+jesteś w ruinach
+ruiny2:
+widzisz ruiny
+akademia_magii:
+jesteś w akademii magii
+akademia_magii2:
+widzisz akademię magii
+bariera:
+widzisz barierę
+skaly:
+nie możesz przekroczyć skał
+sklep_z_bronia:
+jesteś w sklepie z bronią
+sklep_z_bronia2:
+widzisz sklep z bronią
+szpital:
+jesteś w szpitalu
+szpital2:
+widzisz szpital
+sklep:
+jesteś w sklepie
+sklep2:
+widzisz sklep
+gildia_wojownikow:
+jesteś w gildii wojowników
+gildia_wojownikow2:
+widzisz gildię wojowników
+gildia_silaczy:
+jesteś w gildii siłaczy
+gildia_silaczy2:
+widzisz gildię siłaczy
+gildia_lotrzykow:
+jesteś w gildii łotrzyków
+gildia_lotrzykow2:
+widzisz gildie łotrzykow
+lodka:
+widzisz łódkę
+miasto:
+jesteś na ulicach miasta
+miasto2:
+widzisz wyjście na ulice miasta
+mur:
+nie możesz przekroczyć muru
+zamek:
+jesteś w zamku
+zamek_cz:
+jesteś w zamku czarnoksiężnika
+pole:
+jesteś na polu
+pole2:
+widzisz pole
+leze:
+jesteś w leżu smoka
+leze2:
+widzisz leże smoka
+skarb:
+podnosisz skarb
+skarb2:
+widzisz skarb
+
+
+
+

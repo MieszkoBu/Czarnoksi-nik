@@ -1,0 +1,8 @@
+Krasnoludy zamieszkują górzyste tereny kontynentu od kilku tysięcy lat.
+Zmieszkują kilka królestw.
+
+Bonusy do statystyk:
+PŻ = 9
+Siła = 10
+Zwinność = 3
+Szczęście = 6 

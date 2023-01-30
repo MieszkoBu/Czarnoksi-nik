@@ -1,0 +1,25 @@
+Sterowanie:
+	strzałkami albo wpisując kierunki geograficzne
+Postac:
+	ekwipunek - wyświetla ekwipunek
+	zaloz [nazwa broni/zbroi] - zakladasz bron/zboję
+	status - wyświetla statystyki postaci
+	mapa - wyświetla mapę
+	dziennik - wyświetla wszystkie zadania
+	leczenie - używasz mikstury zdrowia
+	odnowienie - używasz mikstury many
+	wyjdź z gry - wychodzisz z gry
+	wyjście - podczas zakupów gdy chcesz wyjść ze sklepu
+Walka:
+	Atak - zwykły atak bronią
+	magia - atakujesz magią (ile zuzyjesz many, się losuje od 0 do 10)
+	ucieczka - próba ucieczki (szansa na sukces zależy od twojej zręczności i obrony przeciwnika)
+Statystyki
+	PZ - punkty życia
+	PM - punkty many
+	Atak - siła twojego ataku, zależy od siły lub inteligencji (Magik) i noszonej broni
+	Siła - twoja siła, zwiększa atak (Wojownik, Siłacz, Łotrzyk)
+	Obrona - wartość twojej obrony, zależy od zręczności i noszonej zbroi
+	Zwinność - twoja zwinność zwiększa obronę i twoją szansę na ucieczkę
+	Inteligencja - twoja inteligencja, zwiększa atak (Magik)
+	Szczęście - Zwiększa twoją szansę na krytyka (1 punkt = 0,5% szansy)

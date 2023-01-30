@@ -1,0 +1,15 @@
+Gnomy są najstarszą rasą na kontynencie "nazwa".
+Przybyły na kontynent w 500 roku I ery.
+W przeszłości tworzyli wiele małych państw, które wiecznie prowadziły ze sobą wojny i nie potrafiły ze sobą współpracować,
+z tego powodu jak na kontynent przybyli ludzie w 100 roku II ery było im łatwo podbić większość państw gnomów.
+Współcześnie ostało się tylko jedno państwo gnomów, księstwo "nazwa", 
+które znajduje się na północno-wschodnim krańcu kontynentu i jest zależne od ludzkiego królestwa "nazwa".
+Z wyglądu są niskie, mają szpiczaste uszy i lekko zielonkawą skórę.
+Mają wysoką predyspozycję do magii.
+
+Bonusy do statystyk:
+PŻ = -5
+PM = 7
+Inteligencja = 10
+Zwinność = 7
+Szczęście = 9

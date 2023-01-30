@@ -1,0 +1,79 @@
+Zadania:
+Upoluj hydrę:
+	Mężczyzna:
+Witaj podróżniku, mółbyś mi pomóc. Nad jeziorem z którego jest brana woda do miasta,
+kilka dni temu zaległa się hydra i blokuje nam dostęp do wody.
+Mógłbyś ją dla nas pokonać?
+
+Nagroda:
+400 PD
+500 złota
+	Kobieta:
+Witaj podróżniczko, mołabyś mi pomóc. Nad jeziorem z którego jest brana woda do miasta,
+kilka dni temu zaległa się hydra i blokuje nam dostęp do wody.
+Mogłabyś ją dla nas pokonać?
+
+Nagroda:
+400 PD
+500 złota
+
+Przed pokonaniem hydry:
+	Mężczyzna:
+Dobrze jeszcze ciebie widzieć całego, ale widzę, że jeszcze nie pokonałeś hydry.
+Wróć jak ją zabijesz.
+	Kobieta:
+Dobrze jeszcze ciebie widzieć całą, ale widzę, że jeszcze nie pokonałaś hydry.
+Wróć jak ją zabijesz.
+
+oddanie zadania:
+
+Cieszę się że ciebie widzę.
+Dziękuję za uporanię się z potworem.
+Masz trochę złota.
+
+Dostajesz:
+400 PD
+500 złota
+po wykonaniu:
+Witaj znowu.
+Upoluj smoka:
+	Mężczyzna:
+Witaj podróżniku, mam do ciebie prośbę, W jaskini obok, żyje smok.
+Mógłbyś się go pozbyć?
+
+Nagroda:
+500 PD
+1000 złota
+	kobieta:
+Witaj podróżniku, mam do ciebie prośbę, W jaskini obok, żyje smok.
+Mógłbyś się go pozbyć?
+
+Nagroda:
+500 PD
+1000 złota
+
+w trakcie:
+Witaj znowu, wróć jak go zabijesz.
+
+oddanie zadania:
+Dziękuję za zabicie go.
+
+Dostajesz:
+500 PD
+1000 złota
+
+po wykonaniu:
+Wchodzisz do domu, ale jest on pusty.
+
+Czarnoksiężnik:
+	Mężczyzna:
+Witaj podróżniku, zakładam, że jesteś po to, żeby mnie zabić.
+Mam dla ciebie inną propozycję, zgładź króla a w nagrodę uczynię cię dowódcą mojej armii.
+Co ty na to?
+	Kobieta:
+Witaj podróżniczko, zakładam, że jesteś po to, żeby mnie zabić.
+Mam dla ciebie inną propozycję, zgładź króla a w nagrodę uczynię cię dowódcą mojej armii.
+Co ty na to?
+
+w trakcie:
+Co ty tu robisz, wróć jak zabijesz króla

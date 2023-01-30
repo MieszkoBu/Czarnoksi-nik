@@ -1,0 +1,12 @@
+Elfy są rasą wywodzącą się z kontynentu "nazwa" znajdującego się około 4 tys. kilometrów na zachód od "nazwa".
+Elfy są rasą dugowieczną. Najstarsze z nich mają około 2 tys lat. Z wyglądu cechują się niezwykłą urodą.
+Najpotężniejszym państwem elfickim jest Cesarstwo "nazwa",
+Które obecnie posiada liczne kolonie na brzegu "nazwa".
+
+Bonusy do statystyk:
+PŻ = 1
+PM = 3
+Siła = 5
+Inteligencja = 3
+Zwinność = 11
+Szczęście = 5
